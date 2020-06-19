@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "Meghnaクイックスターター"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -77,17 +77,17 @@ URL = "contact"
 weight = 7
 
 #### external / static link ####
-[[menu.static]]
-name = "themefisher"
-URL = "https://themefisher.com/"
-weight = 8
+# [[menu.static]]
+# name = "themefisher"
+# URL = "https://themefisher.com/"
+# weight = 8
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "日本人のためのmeghnaクイックスターターです。"
+author = "newt0"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -157,4 +157,4 @@ languageCode = "ja-jp"
 contentDir = "content/japanese"
 weight = 1
 home = "Home"
-copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
+# copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
