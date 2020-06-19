@@ -149,3 +149,12 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
+
+################################ English Language ########################
+[Languages.ja]
+languageName = "Ja"
+languageCode = "ja-jp"
+contentDir = "content/japanese"
+weight = 1
+home = "Home"
+copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
